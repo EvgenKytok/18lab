@@ -1,7 +1,7 @@
 
 {
   "name": "lab18",
-  "homepage": "https://github.com/EvgenKytok/18lab.gi",
+  "homepage": "https://github.com/EvgenKytok/18lab.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
