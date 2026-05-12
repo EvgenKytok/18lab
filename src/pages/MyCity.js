@@ -5,7 +5,7 @@ const MyCity = () => {
   const [weather, setWeather] = useState(null);
 
   useEffect(() => {
-   fetchWeather("Znob-Novhorodske").then(setWeather);
+   fetchWeather("Znob-Novhorodsk").then(setWeather);
   }, []);
 
   return (
